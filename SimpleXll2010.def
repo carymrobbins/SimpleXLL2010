@@ -1,0 +1,17 @@
+LIBRARY SimpleXll2010.xll
+
+EXPORTS
+	; Standard XLL functions
+	xlAutoOpen
+	xlAutoClose
+	xlAutoRegister12
+	xlAutoAdd
+	xlAutoRemove
+	xlAddInManagerInfo12
+    xlAutoFree12
+
+	; UDFs
+	eval
+    ctype
+    r_
+    c_
